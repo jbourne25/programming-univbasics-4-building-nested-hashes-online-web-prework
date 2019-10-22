@@ -33,6 +33,7 @@ def monopoly_with_third_tier
     }
   }
   
+  monopoly_with_third_tier[:railroads] = "rent_in_dollars"
 
 end
 
