@@ -32,9 +32,8 @@ def monopoly_with_third_tier
       :pieces => 4
     }
   }
-  hash
-  
- monopoly_with_third_tier[:railroads] = ":rent_in_dollars"
+hash
+monopoly_with_third_tier[:railroads] = ":rent_in_dollars"
 end
 
 def monopoly_with_fourth_tier
