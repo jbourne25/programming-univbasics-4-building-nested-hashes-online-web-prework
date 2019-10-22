@@ -35,7 +35,6 @@ def monopoly_with_third_tier
   hash
   
  monopoly_with_third_tier[:railroads] = ":rent_in_dollars"
-
 end
 
 def monopoly_with_fourth_tier
