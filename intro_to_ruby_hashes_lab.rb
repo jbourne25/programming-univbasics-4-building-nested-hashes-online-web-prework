@@ -29,12 +29,13 @@ def monopoly_with_third_tier
   # complexity.
    hash = {
     :railroads => {
-      :pieces => 4
+      :pieces => {4},
+      :rent_in_dollars
     }
   }
 end 
-monopoly_with_third_tier[:railroads] = (:rent_in_dollars)
-hash 
+#monopoly_with_third_tier[:railroads] = (:rent_in_dollars)
+#hash 
 
 def monopoly_with_fourth_tier
   # When you start writing the implementation for this method, copy the Hash
