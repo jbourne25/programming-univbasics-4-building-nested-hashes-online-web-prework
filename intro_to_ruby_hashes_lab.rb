@@ -42,7 +42,7 @@ def monopoly_with_third_tier
         :b_and_o_railroad => {},
         :shortline_railroad => {}
      }
-    }
+   }
   hash
 end 
 #monopoly_with_third_tier[:railroads] = (:rent_in_dollars)
