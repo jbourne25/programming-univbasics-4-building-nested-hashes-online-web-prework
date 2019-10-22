@@ -1,7 +1,7 @@
 def base_hash
   # Remember implicit return! We're returning this new Hash _without_ the
   # keyword "return." Nice and neat.
-	first_hash = {:hash => "no return"}
+	first_hash = {:railroads => "no return"}
 	first_hash
 	
 	  
